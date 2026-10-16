@@ -1,5 +1,3 @@
-# RPCS3-5-Disk-Support
-
 # RPCS3-5
 
 RPCS3, the PS3 emulator, running natively on jailbroken PS5 consoles. It plays PS3 discs straight from the PS5's disc drive.
